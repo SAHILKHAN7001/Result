@@ -1,0 +1,12 @@
+body {
+   margin-left: 350px;
+}
+
+@media (max-width:600px) {
+    .result {
+        height: 500px;
+        width: 500px;
+   }
+}
+
+
